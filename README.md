@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @reneedoble-e
-- 👀 I’m interested in ... learn more about Python, C++, make big proyects and meet people who likes my proyects
-- 🌱 I’m currently learning ... Python, and i have knowledge in Java nad HTML
-- 💞️ I’m looking to collaborate on ... i really don't want to colaborate in something directly, i just want to learn more
+- 👀 I’m interested in ... improve my knowledge in Python, C++, make big proyects and meet people who likes and support my proyects
+- 🌱 I’m currently learning ... web development full-stack
+- 💞️ I’m really not looking to colaborate in something directly, i just want to learn more but if you have something let me know
 - and keeping growing in this big world
-- 📫 How to reach me ... you can contact me in my email vargassreneee@gmail.com or by here
+- 📫 How to reach me ... you can reach me by email vargassreneee@gmail.com
 
 <!---
 reneedoble-e/reneedoble-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
